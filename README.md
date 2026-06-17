@@ -1,113 +1,99 @@
-<div align="center">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&height=4&color=E10600" width="100%" alt="red line" />
+</p>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=26&duration=2500&pause=1000&color=FF0000&center=true&vCenter=true&width=650&lines=Francisco+Vargas+Ramos+%2F+Paco;Dev+%2B+Rider+%F0%9F%8F%8D%EF%B8%8F;Building+real+things+for+real+clients." alt="header" />
+<h1 align="center">Francisco Vargas</h1>
 
-<br/>
+<p align="center">
+  Software Engineering student building websites, APIs, and practical systems for small businesses.
+</p>
 
-![](https://img.shields.io/badge/📍_Orizaba,_Veracruz-1a1a1a?style=for-the-badge&logoColor=FF0000)
-![](https://img.shields.io/badge/🎓_Universidad_Veracruzana-FF0000?style=for-the-badge&logoColor=white)
-![](https://img.shields.io/badge/🏍️_Pulsar_N250_→_CFMoto_750_SR--S-1a1a1a?style=for-the-badge&logoColor=FF0000)
+<p align="center">
+  <a href="https://github.com/FRANCISCOVARGAS12">
+    <img src="https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=white&labelColor=111111&color=E10600" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN-USERNAME">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=111111&color=E10600" alt="LinkedIn" />
+  </a>
+  <a href="mailto:YOUR_EMAIL@example.com">
+    <img src="https://img.shields.io/badge/Available_for_freelance-111111?style=for-the-badge&logo=gmail&logoColor=white&labelColor=111111&color=E10600" alt="Email" />
+  </a>
+</p>
 
-</div>
+```txt
+REDLINE DEV PROFILE
 
----
-
-```bash
-$ whoami
-
-  name     →  Francisco Vargas Ramos (Paco)
-  role     →  Software Engineering Student · Freelance Dev
-  status   →  Shipping real projects for real clients
-  stack    →  Spring Boot · Flutter · PostgreSQL · Docker · Nginx
-  vps      →  Deployed. Not just localhost.
-  ride     →  Bajaj Pulsar N250 🏍️  (upgrading soon)
-  based    →  Orizaba, Veracruz, México 🇲🇽
+Real client work over tutorial projects.
+Clean websites. Practical systems. Deployed software.
 ```
 
-> Not a tutorial dev. I build and deploy for actual clients.
+## What I Build
 
----
+I build simple, useful software for small businesses:
 
-## `> stack`
+- Landing pages and small business websites
+- Restaurant websites with menu, contact, maps, and booking sections
+- Basic dashboards and admin panels
+- REST APIs connected to PostgreSQL
+- Internal tools for restaurants, retail, and local businesses
 
-**Backend**
+I am not selling a fake senior profile. I am an early-career developer who has already shipped real work for a real client.
 
-![Java](https://img.shields.io/badge/Java_21-FF0000?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-1a1a1a?style=for-the-badge&logo=springboot&logoColor=FF0000)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-1a1a1a?style=for-the-badge&logo=postgresql&logoColor=FF0000)
+## Main Proof Of Work
 
-**Frontend & Mobile**
+### La Pagoda POS
 
-![Flutter](https://img.shields.io/badge/Flutter-FF0000?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-1a1a1a?style=for-the-badge&logo=dart&logoColor=FF0000)
-![React](https://img.shields.io/badge/React-1a1a1a?style=for-the-badge&logo=react&logoColor=FF0000)
+Restaurant POS system built for a real Asian restaurant in Mexico.
 
-**DevOps & Infra**
+It includes:
 
-![Docker](https://img.shields.io/badge/Docker-FF0000?style=for-the-badge&logo=docker&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-1a1a1a?style=for-the-badge&logo=nginx&logoColor=FF0000)
-![Linux](https://img.shields.io/badge/Debian_Linux-1a1a1a?style=for-the-badge&logo=debian&logoColor=FF0000)
-![Git](https://img.shields.io/badge/Git-FF0000?style=for-the-badge&logo=git&logoColor=white)
+- Spring Boot API with Java 21
+- PostgreSQL database with 18 entities across 4 schemas
+- Angular admin panel for menu, users, sales, tips, and reports
+- Flutter waiter app for table and order flow
+- WebSocket support for real-time updates
+- PDF and printing support
+- Deployed on a VPS with Docker and Nginx
 
----
+This project matters because it was not a school assignment, tutorial, or fake portfolio app. It was built for a real business workflow and deployed to a real server.
 
-## `> projects --production-only`
+## Tech Stack
 
-### 🔴 La Pagoda — Restaurant POS System
-> Complete POS system built for a real Asian restaurant client. Live in production.
+<p>
+  <img src="https://img.shields.io/badge/Java-111111?style=for-the-badge&logo=openjdk&logoColor=white&labelColor=111111&color=E10600" alt="Java" />
+  <img src="https://img.shields.io/badge/Spring_Boot-111111?style=for-the-badge&logo=springboot&logoColor=white&labelColor=111111&color=E10600" alt="Spring Boot" />
+  <img src="https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=white&labelColor=111111&color=E10600" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Angular-111111?style=for-the-badge&logo=angular&logoColor=white&labelColor=111111&color=E10600" alt="Angular" />
+  <img src="https://img.shields.io/badge/Flutter-111111?style=for-the-badge&logo=flutter&logoColor=white&labelColor=111111&color=E10600" alt="Flutter" />
+  <img src="https://img.shields.io/badge/Docker-111111?style=for-the-badge&logo=docker&logoColor=white&labelColor=111111&color=E10600" alt="Docker" />
+  <img src="https://img.shields.io/badge/Nginx-111111?style=for-the-badge&logo=nginx&logoColor=white&labelColor=111111&color=E10600" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Linux-111111?style=for-the-badge&logo=linux&logoColor=white&labelColor=111111&color=E10600" alt="Linux" />
+</p>
 
+## How I Work
+
+- I keep the scope clear before building.
+- I deliver mobile-friendly websites.
+- I deploy projects so they are live, not just sitting in a folder.
+- I communicate clearly and avoid pretending to know what I do not know.
+- I care about business results: calls, reservations, orders, and trust.
+
+## Freelance Services
+
+Currently open to:
+
+- One-page landing pages
+- 3 to 5 page business websites
+- Restaurant websites
+- Menu/catalog websites
+- Small internal tools
+- Simple backend/API work
+
+If you run a small business and need a clean website or a practical system, send me a message.
+
+```txt
+Contact:
+Email: panchovr13@gmail.com
+GitHub: github.com/FRANCISCOVARGAS12
+LinkedIn: linkedin.com/in/YOUR-LINKEDIN-USERNAME
 ```
-├── Backend    →  Spring Boot (Java 21) · 18 JPA entities · 4 PostgreSQL schemas
-├── Features   →  Order management · Menu catalog · Full sales flow · Error handling
-├── DevOps     →  Dockerized · Deployed on VPS with Nginx
-└── Status     →  Real client. Real money. Real production.
-```
-
-### ⚫ NØV Shop — Streetwear Landing Page
-> E-commerce landing page for a local clothing brand with interactive 360° product viewer.
-
-```
-├── Stack    →  HTML · CSS · JavaScript
-├── Feature  →  360° product rotation viewer
-└── Deploy   →  GitHub Pages · Live
-```
-
-### 🔴 Moto Club App — Social Platform
-> Twitter-like social app for a university course. Full stack, Dockerized, deployed.
-
-```
-├── Backend   →  Spring Boot · PostgreSQL (Aiven)
-├── Frontend  →  Flutter (Android APK)
-├── Patterns  →  Singleton · Builder · Facade · Proxy · Repository · MVC
-└── Deploy    →  Docker Hub (panchitodevv) · Render
-```
-
----
-
-## `> stats`
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FRANCISCOVARGAS12&show_icons=true&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d0d0d&border_color=FF0000&hide_border=false&include_all_commits=true&count_private=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FRANCISCOVARGAS12&layout=compact&theme=dark&title_color=FF0000&icon_color=FF0000&text_color=ffffff&bg_color=0d0d0d&border_color=FF0000)
-
-</div>
-
----
-
-## `> contact`
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1a1a?style=for-the-badge&logo=linkedin&logoColor=FF0000)](https://linkedin.com/in/franciscovargasramos)
-[![GitHub](https://img.shields.io/badge/GitHub-FF0000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/FRANCISCOVARGAS12)
-[![Email](https://img.shields.io/badge/Email-1a1a1a?style=for-the-badge&logo=gmail&logoColor=FF0000)](mailto:tuemail@gmail.com)
-
-<br/>
-
-```
-⚡  "No demos. No tutorials. Only shipped products."  ⚡
-```
-
-</div>
